@@ -52,4 +52,4 @@ Throughout the lessons you will see:
 - **Merke!** — Important rule to remember
 - **Achtung!** — Common mistake or exception to watch out for
 - **Tipp** — Helpful learning tip
-- Exercises marked with difficulty: (A) = easy, (B) = medium, (C) = challenging
+- **Exercises marked with difficulty**: (A) = easy, (B) = medium, (C) = challenging
