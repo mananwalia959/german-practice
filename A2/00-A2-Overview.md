@@ -44,10 +44,10 @@ If any of these feel shaky, review [A1](../A1/00-A1-Overview.md) before continui
 | 5 | Reflexive Verben | [lessons/05-Reflexive-Verben.md](lessons/05-Reflexive-Verben.md) |
 | 6 | Wechselpräpositionen | [lessons/06-Wechselpraepositionen.md](lessons/06-Wechselpraepositionen.md) |
 | 7 | Adjektivdeklination: Nominativ und Akkusativ | [lessons/07-Adjektivdeklination-Nominativ-Akkusativ.md](lessons/07-Adjektivdeklination-Nominativ-Akkusativ.md) |
-| 8 | Adjektivdeklination: Dativ und ohne Artikel | [lessons/08-Adjektivdeklination-Dativ-ohne-Artikel.md](lessons/08-Adjektivdeklination-Dativ-ohne-Artikel.md) |
+| 8 | Adjektivdeklination: Dativ und ohne Artikel | [lessons/08-Adjektivdeklination-Dativ-und-ohne-Artikel.md](lessons/08-Adjektivdeklination-Dativ-und-ohne-Artikel.md) |
 | 9 | Komparativ und Superlativ | [lessons/09-Komparativ-und-Superlativ.md](lessons/09-Komparativ-und-Superlativ.md) |
 | 10 | Nebensätze: weil, dass, wenn | [lessons/10-Nebensaetze-weil-dass-wenn.md](lessons/10-Nebensaetze-weil-dass-wenn.md) |
-| 11 | Nebensätze: ob, als, während, bevor, nachdem, obwohl | [lessons/11-Nebensaetze-ob-als-waehrend-bevor-nachdem-obwohl.md](lessons/11-Nebensaetze-ob-als-waehrend-bevor-nachdem-obwohl.md) |
+| 11 | Nebensätze: ob, als, während, bevor, nachdem, obwohl | [lessons/11-Nebensaetze-ob-als-waehrend.md](lessons/11-Nebensaetze-ob-als-waehrend.md) |
 | 12 | Relativsätze Einführung | [lessons/12-Relativsaetze-Einfuehrung.md](lessons/12-Relativsaetze-Einfuehrung.md) |
 | 13 | Konjunktiv II: würde, hätte, wäre | [lessons/13-Konjunktiv-II-wuerde-haette-waere.md](lessons/13-Konjunktiv-II-wuerde-haette-waere.md) |
 | 14 | Passiv Einführung Präsens | [lessons/14-Passiv-Einfuehrung-Praesens.md](lessons/14-Passiv-Einfuehrung-Praesens.md) |

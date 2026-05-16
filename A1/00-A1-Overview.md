@@ -28,11 +28,11 @@ You should be comfortable reading Latin script (the standard Western alphabet). 
 |-----|-------------------|--------------|
 | 01 | Alphabet und Aussprache | [lessons/01-Alphabet-und-Aussprache.md](lessons/01-Alphabet-und-Aussprache.md) |
 | 02 | Sein und Haben | [lessons/02-Sein-und-Haben.md](lessons/02-Sein-und-Haben.md) |
-| 03 | Präsens: regelmäßige Verben | [lessons/03-Praesens-Regelmaessige-Verben.md](lessons/03-Praesens-Regelmaessige-Verben.md) |
-| 04 | Präsens: unregelmäßige Verben | [lessons/04-Praesens-Unregelmaessige-Verben.md](lessons/04-Praesens-Unregelmaessige-Verben.md) |
-| 05 | Artikel und Nomen im Nominativ | [lessons/05-Artikel-und-Nomen-im-Nominativ.md](lessons/05-Artikel-und-Nomen-im-Nominativ.md) |
+| 03 | Präsens: regelmäßige Verben | [lessons/03-Praesens-regelmaessige-Verben.md](lessons/03-Praesens-regelmaessige-Verben.md) |
+| 04 | Präsens: unregelmäßige Verben | [lessons/04-Praesens-unregelmaessige-Verben.md](lessons/04-Praesens-unregelmaessige-Verben.md) |
+| 05 | Artikel und Nomen im Nominativ | [lessons/05-Artikel-und-Nomen-Nominativ.md](lessons/05-Artikel-und-Nomen-Nominativ.md) |
 | 06 | Personalpronomen und Nominativ | [lessons/06-Personalpronomen-und-Nominativ.md](lessons/06-Personalpronomen-und-Nominativ.md) |
-| 07 | Negation: nicht und kein | [lessons/07-Negation-Nicht-und-Kein.md](lessons/07-Negation-Nicht-und-Kein.md) |
+| 07 | Negation: nicht und kein | [lessons/07-Negation-nicht-und-kein.md](lessons/07-Negation-nicht-und-kein.md) |
 | 08 | Ja/Nein-Fragen und W-Fragen | [lessons/08-Ja-Nein-Fragen-und-W-Fragen.md](lessons/08-Ja-Nein-Fragen-und-W-Fragen.md) |
 | 09 | Wortstellung und Satzklammer | [lessons/09-Wortstellung-und-Satzklammer.md](lessons/09-Wortstellung-und-Satzklammer.md) |
 | 10 | Akkusativ: Artikel und Pronomen | [lessons/10-Akkusativ-Artikel-und-Pronomen.md](lessons/10-Akkusativ-Artikel-und-Pronomen.md) |
@@ -55,8 +55,8 @@ Dedicated vocabulary lists supplement the grammar lessons and should be reviewed
 
 | Datei (File) | Inhalt (Content) |
 |--------------|------------------|
-| [vocabulary/100-Verben.md](vocabulary/100-Verben.md) | 100 essential A1 verbs with conjugation patterns, example sentences, and frequency ranking |
-| [vocabulary/150-Nomen.md](vocabulary/150-Nomen.md) | 150 essential A1 nouns organized by topic, with articles (der/die/das), plural forms, and example usage |
+| [vocabulary/Verben-A1.md](vocabulary/Verben-A1.md) | 100 essential A1 verbs with conjugation patterns, example sentences, and frequency ranking |
+| [vocabulary/Nomen-A1.md](vocabulary/Nomen-A1.md) | 150 essential A1 nouns organized by topic, with articles (der/die/das), plural forms, and example usage |
 
 **Tip:** Learn nouns always with their article. Never memorize *Haus* alone — memorize *das Haus*.
 
