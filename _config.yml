@@ -10,7 +10,10 @@ defaults:
       layout: default
 
 # README.md becomes the site homepage (via jekyll-readme-index).
+# vendor/.bundle are where CI installs gems — must not be built as content.
 exclude:
   - Gemfile
   - Gemfile.lock
   - .github
+  - vendor
+  - .bundle
