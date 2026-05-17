@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 8: Adjektivdeklination — Fortgeschritten (Advanced Adjective Declension)
 
 **Niveau:** B1
@@ -563,3 +569,12 @@ Bilden Sie Partizip I oder Partizip II und setzen Sie die richtige Form ein.
 ---
 
 *Ende der Lektion 8 — Adjektivdeklination Fortgeschritten*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 7: Die n-Deklination (N-Declension)](07-n-Deklination.md) · [Lektion 9: Der Genitiv — Vollständige Behandlung (The Genitive Case — Complete Treatment)](09-Genitiv-vollstaendig.md) ➡️
+<!-- /nav-footer -->

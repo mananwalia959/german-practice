@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 8: Komplexe Präpositionen
 
 ## Niveau: B2
@@ -495,3 +501,12 @@ Dr. Schmidt
 ---
 
 *Ende der Lektion 8 — Komplexe Präpositionen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 7: Funktionsverbgefüge (FVG)](07-Funktionsverbgefuege.md) · [Lektion 9: Textkonnektoren und Diskursmarker](09-Textkonnektoren-und-Diskursmarker.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 01: Das Alphabet und die Aussprache
 ## The German Alphabet and Pronunciation
 
@@ -685,3 +691,12 @@ Sample answers (your sentences will vary):
 In **Lektion 02: Sein und Haben**, you will learn the two most important German verbs —
 "to be" and "to have" — in all their present tense forms. These verbs are the foundation
 of nearly every German sentence.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+[Lektion 02: Sein und Haben](02-Sein-und-Haben.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 1: Das Perfekt mit regelmäßigen (schwachen) Verben
 
 **Niveau:** A2
@@ -559,3 +565,12 @@ Finde und korrigiere den Fehler in jedem Satz.
 ---
 
 **Nächste Lektion:** [Lektion 2: Das Perfekt mit unregelmäßigen (starken) Verben](02-Perfekt-unregelmaessige-Verben.md) -- Dort lernst du die wichtigsten starken Verben und ihre Partizip-II-Formen mit Stammvokaländerung.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+[Lektion 2: Das Perfekt mit unregelmäßigen (starken und gemischten) Verben](02-Perfekt-unregelmaessige-Verben.md) ➡️
+<!-- /nav-footer -->

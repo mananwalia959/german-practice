@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 12: Indirekte Rede — Konjunktiv I
 ## Indirect Speech — Subjunctive I
 
@@ -233,3 +239,12 @@ Bestimmen Sie: Ist die KI-Form identisch mit dem Indikativ? Wenn ja, schreiben S
 - Pronoun/possessive shifts required when converting direct → indirect speech
 
 → Weiter zu **Lektion 13:** Partizipiale Adjektive
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 11: Doppelkonnektoren](11-Doppelkonnektoren.md) · [Lektion 13: Partizipiale Adjektive (Participial Adjectives)](13-Partizipiale-Adjektive.md) ➡️
+<!-- /nav-footer -->

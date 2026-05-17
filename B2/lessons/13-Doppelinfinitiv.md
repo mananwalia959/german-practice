@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 13: Der Doppelinfinitiv (Ersatzinfinitiv)
 
 **Niveau:** B2
@@ -406,3 +412,12 @@ This form is rare in spoken German but appears in formal writing.
 ---
 
 *Nächste Lektion: Lektion 14 — Lassen-Konstruktionen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 12: Konditionalsätze — alle Typen](12-Konditionalsaetze-alle-Typen.md) · [Lektion 14: Lassen-Konstruktionen (Constructions with lassen)](14-Lassen-Konstruktionen.md) ➡️
+<!-- /nav-footer -->

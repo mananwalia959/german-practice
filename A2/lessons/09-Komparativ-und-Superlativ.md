@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 9: Komparativ und Superlativ
 ## Niveau: A2 | Thema: Steigerung der Adjektive und Adverbien
 
@@ -438,3 +444,12 @@ Beispiele:
 ---
 
 *Ende der Lektion 9 — Weiter mit Lektion 10: Nebensätze mit weil, dass, wenn*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 8: Adjektivdeklination im Dativ und ohne Artikel](08-Adjektivdeklination-Dativ-und-ohne-Artikel.md) · [Lektion 10: Nebensätze — weil, dass, wenn](10-Nebensaetze-weil-dass-wenn.md) ➡️
+<!-- /nav-footer -->

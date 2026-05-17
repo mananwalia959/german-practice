@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 17: Pluralbildung (Plural Formation)
 ## Niveau: A1 | Thema: Die fünf Pluralmuster im Deutschen
 
@@ -525,3 +531,12 @@ die Zahlen von 0 bis 1000+ und die Uhrzeit.
 ---
 
 *Viel Erfolg beim Lernen! (Good luck with your studies!)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 16: Präpositionen mit Dativ](16-Praepositionen-mit-Dativ.md) · [Lektion 18: Adjektive (Grundlagen) und Zahlen](18-Adjektive-Grundlagen-und-Zahlen.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 06: Personalpronomen und Nominativ
 ## Personal Pronouns and the Nominative Case
 
@@ -459,3 +465,12 @@ wir (we), ihr (you inf. pl.), sie (they), Sie (you formal)
 ---
 
 *Nächste Lektion: Lektion 07 -- Negation: nicht und kein*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 5: Artikel und Nomen im Nominativ (Articles and Nouns in the Nominative Case)](05-Artikel-und-Nomen-Nominativ.md) · [Lektion 07: Negation -- nicht und kein](07-Negation-nicht-und-kein.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 8: Adjektivdeklination im Dativ und ohne Artikel
 
 ## Niveau: A2
@@ -550,3 +556,12 @@ Dat.     -em   -er    -em    -en
 ---
 
 *Viel Erfolg! Die Adjektivdeklination ist eines der schwierigsten Themen der deutschen Grammatik — aber mit Übung wird es einfacher!*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 7: Adjektivdeklination im Nominativ und Akkusativ](07-Adjektivdeklination-Nominativ-Akkusativ.md) · [Lektion 9: Komparativ und Superlativ](09-Komparativ-und-Superlativ.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 10: Nominalisierung — Fortgeschritten
 ## Advanced Nominalization
 
@@ -189,3 +195,12 @@ Bilden Sie das passende Substantiv.
 - Agent: **durch + Akk** or **von + Dat** in nominal phrases
 
 → Weiter zu **Lektion 11:** Wortbildung
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 9: Textkonnektoren und Diskursmarker](09-Textkonnektoren-und-Diskursmarker.md) · [Lektion 11: Wortbildung](11-Wortbildung.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 5: Relativsätze in allen vier Fällen
 
 ## Niveau: B1
@@ -419,3 +425,12 @@ Lesen Sie den Satz und schreiben Sie den Kasus: Nominativ (N), Akkusativ (A), Da
 ---
 
 *Ende der Lektion 5 – Relativsätze in allen vier Fällen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 4: Das Passiv in allen Zeitformen](04-Passiv-alle-Zeitformen.md) · [Lektion 06: Relativsätze mit wo, was und wo(r)-Verbindungen](06-Relativsaetze-wo-was-worueber.md) ➡️
+<!-- /nav-footer -->

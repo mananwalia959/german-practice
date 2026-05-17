@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 11: Doppelkonnektoren
 ## Double/Paired Connectors
 
@@ -199,3 +205,12 @@ Schreiben Sie je...desto-Sätze.
 | zwar...aber | concede then contrast |
 
 → Weiter zu **Lektion 12:** Indirekte Rede / Konjunktiv I
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 10: Präpositionen mit Genitiv](10-Praepositionen-mit-Genitiv.md) · [Lektion 12: Indirekte Rede — Konjunktiv I](12-Indirekte-Rede-Konjunktiv-I.md) ➡️
+<!-- /nav-footer -->

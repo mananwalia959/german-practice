@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 9: Textkonnektoren und Diskursmarker
 
 ## Niveau: B2
@@ -629,3 +635,12 @@ Mögliche Lösungen (andere korrekte Konnektoren sind ebenfalls akzeptabel):
 ---
 
 *Ende der Lektion 9 — Textkonnektoren und Diskursmarker*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 8: Komplexe Präpositionen](08-Komplexe-Praepositionen.md) · [Lektion 10: Nominalisierung — Fortgeschritten](10-Nominalisierung-Fortgeschritten.md) ➡️
+<!-- /nav-footer -->

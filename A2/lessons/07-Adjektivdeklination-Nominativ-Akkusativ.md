@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 7: Adjektivdeklination im Nominativ und Akkusativ
 
 ## Niveau: A2
@@ -471,3 +477,12 @@ kein-/Poss.:   -er   -e     -es   -en           -en   -e     -es   -en
 ---
 
 *Viel Erfolg beim Lernen! Die Adjektivdeklination braucht Übung, aber mit der Zeit wird sie automatisch!*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 6: Wechselpräpositionen (Two-Way Prepositions)](06-Wechselpraepositionen.md) · [Lektion 8: Adjektivdeklination im Dativ und ohne Artikel](08-Adjektivdeklination-Dativ-und-ohne-Artikel.md) ➡️
+<!-- /nav-footer -->

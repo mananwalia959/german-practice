@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 4: Der Dativ — Vertiefung
 ## Niveau: A2 | Thema: Dativverben, Dativ mit Adjektiven, Wortstellung
 
@@ -402,3 +408,12 @@ Lerne die Dativverben als feste Liste auswendig. Wenn du dir unsicher bist, frag
 ---
 
 *Ende der Lektion 4 — Weiter mit Lektion 5: Reflexive Verben*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 3: Das Präteritum von sein, haben und Modalverben](03-Praeteritum-sein-haben-Modalverben.md) · [Lektion 5: Reflexive Verben](05-Reflexive-Verben.md) ➡️
+<!-- /nav-footer -->

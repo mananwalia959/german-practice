@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 5: Erweiterte Attribute (Komplexe Nominalphrasen)
 
 **Niveau:** B2
@@ -516,3 +522,12 @@ Nomen: der Antrag | Eigenschaften: er wurde vor zwei Wochen eingereicht; er ist 
 ---
 
 *Ende der Lektion 5 -- Erweiterte Attribute*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 4: Partizipialkonstruktionen (Erweiterte Partizipialattribute)](04-Partizipialkonstruktionen.md) · [Lektion 06: Subjektive Bedeutung der Modalverben](06-Subjektive-Bedeutung-Modalverben.md) ➡️
+<!-- /nav-footer -->

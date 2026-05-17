@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 06: Relativsätze mit wo, was und wo(r)-Verbindungen
 ## Relative Clauses with wo, was, and wo(r)- Compounds
 
@@ -218,3 +224,12 @@ Beispiel: Das ist die Stadt, in der ich lebe. → Das ist die Stadt, wo ich lebe
 - wo(r)- for things; normal preposition + relative pronoun for people
 
 → Weiter zu **Lektion 07:** n-Deklination
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 5: Relativsätze in allen vier Fällen](05-Relativsaetze-alle-Faelle.md) · [Lektion 7: Die n-Deklination (N-Declension)](07-n-Deklination.md) ➡️
+<!-- /nav-footer -->

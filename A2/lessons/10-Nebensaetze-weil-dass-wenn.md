@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 10: Nebensätze — weil, dass, wenn
 ## Subordinate Clauses — because, that, when/if
 
@@ -239,3 +245,12 @@ Choose the correct conjunction.
 - Separable verbs stay together; modal verbs go last after infinitive
 
 → Weiter zu **Lektion 11:** Nebensätze: ob, als, während, bevor, nachdem, obwohl
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 9: Komparativ und Superlativ](09-Komparativ-und-Superlativ.md) · [Lektion 11: Nebensätze mit ob, als, während, bevor, nachdem, obwohl](11-Nebensaetze-ob-als-waehrend.md) ➡️
+<!-- /nav-footer -->

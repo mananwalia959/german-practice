@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 17: Stilistik und Register
 ## Style and Register in Written German
 **Niveau:** B2
@@ -556,3 +562,12 @@ The following 25 sentences demonstrate register differences, hedging, and cohesi
 - Contrasting: *Im Gegensatz dazu, Hingegen, Demgegenüber, Wohingegen*
 - Concluding: *Abschließend lässt sich sagen, Zusammenfassend, Insgesamt zeigt sich*
 - Introducing topic: *Was ... betrifft, Im Hinblick auf, Hinsichtlich, Bezüglich*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 16: Nomen-Verb-Verbindungen — Vertiefung](16-Nomen-Verb-Verbindungen-Vertiefung.md) · [Lektion 18: B2-Zusammenfassung und Prüfungsvorbereitung](18-B2-Zusammenfassung-und-Pruefung.md) ➡️
+<!-- /nav-footer -->

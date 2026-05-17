@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 5: Reflexive Verben
 ## Niveau: A2 | Thema: Reflexivpronomen (Akkusativ & Dativ), reflexive und reziproke Verben
 
@@ -433,3 +439,12 @@ Setze das Verb in Klammern in die richtige Form.
 ---
 
 *Ende der Lektion 5 — Weiter mit Lektion 6: Wechselpräpositionen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 4: Der Dativ — Vertiefung](04-Dativ-Vertiefung.md) · [Lektion 6: Wechselpräpositionen (Two-Way Prepositions)](06-Wechselpraepositionen.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 4: Präsens – Unregelmäßige Verben (Present Tense – Irregular Verbs)
 
 **Niveau:** A1
@@ -631,3 +637,12 @@ Form complete sentences using the given words. Pay attention to the correct verb
 ---
 
 **Nächste Lektion:** Lektion 5 – Artikel und Nomen im Nominativ (Articles and Nouns in the Nominative Case)
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 03: Präsens — Regelmäßige Verben](03-Praesens-regelmaessige-Verben.md) · [Lektion 5: Artikel und Nomen im Nominativ (Articles and Nouns in the Nominative Case)](05-Artikel-und-Nomen-Nominativ.md) ➡️
+<!-- /nav-footer -->

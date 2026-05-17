@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 14: Imperativ (Imperative Mood)
 
 **Niveau:** A1
@@ -522,3 +528,12 @@ In **Lektion 15: Präpositionen mit Akkusativ** lernen Sie die Akkusativ-Präpos
 ---
 
 *Viel Erfolg beim Lernen! (Good luck with your studies!)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 13: Trennbare Verben (Separable Verbs)](13-Trennbare-Verben.md) · [Lektion 15: Praepositionen mit Akkusativ](15-Praepositionen-mit-Akkusativ.md) ➡️
+<!-- /nav-footer -->

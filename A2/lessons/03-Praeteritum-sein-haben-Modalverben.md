@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 3: Das Präteritum von sein, haben und Modalverben
 
 **Niveau:** A2
@@ -599,3 +605,12 @@ Leider (18) _______ (dürfen, wir) nicht länger als drei Wochen bleiben, weil w
 ---
 
 **Nächste Lektion:** [Lektion 4: Der Dativ -- Vertiefung](04-Dativ-Vertiefung.md) -- Dort lernst du den Dativ in allen Details: Dativ-Verben, Dativ mit Adjektiven, Wortstellung mit zwei Objekten und die vollständigen Artikel- und Pronomen-Tabellen.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 2: Das Perfekt mit unregelmäßigen (starken und gemischten) Verben](02-Perfekt-unregelmaessige-Verben.md) · [Lektion 4: Der Dativ — Vertiefung](04-Dativ-Vertiefung.md) ➡️
+<!-- /nav-footer -->

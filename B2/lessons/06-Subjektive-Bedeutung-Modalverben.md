@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 06: Subjektive Bedeutung der Modalverben
 ## Subjective (Epistemic) Meaning of Modal Verbs
 
@@ -215,3 +221,12 @@ Formen Sie die Sätze in die Vergangenheit um.
 **Past epistemic:** modal + Partizip II + **haben/sein**
 
 → Weiter zu **Lektion 07:** Funktionsverbgefüge
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 5: Erweiterte Attribute (Komplexe Nominalphrasen)](05-Erweiterte-Attribute.md) · [Lektion 7: Funktionsverbgefüge (FVG)](07-Funktionsverbgefuege.md) ➡️
+<!-- /nav-footer -->

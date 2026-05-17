@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 18: B1 Zusammenfassung und Prüfung
 ## B1 Review and Mock Exam
 
@@ -263,3 +269,12 @@ Ergänzen Sie die richtige Form.
 ☐ Ich kenne das Zeitgefüge mit nachdem (Plusquamperfekt).
 
 **Auswertung:** 13–15 ✓ = Bereit für B2 | 10–12 ✓ = Wiederholen | < 10 ✓ = B1 vertiefen
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 17: Temporalsätze und Kausalsätze](17-Temporalsaetze-und-Kausalsaetze.md) · [B2 Overview — Start B2 ➡️](../../B2/00-B2-Overview.md)
+<!-- /nav-footer -->

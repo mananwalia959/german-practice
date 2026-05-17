@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 18: B2-Zusammenfassung und Prüfungsvorbereitung
 ## Comprehensive B2 Review and Mock Exam
 **Niveau:** B2
@@ -760,3 +766,12 @@ Die zentrale Herausforderung besteht darin, diesen Wandel sozial verträglich zu
 - Review the Konjunktiv I table weekly until all forms are automatic
 - When writing practice essays, aim to include at least 3 different advanced clause types per paragraph
 - Time yourself on the mock exam: B2 candidates have approximately 65 minutes for the reading/grammar section
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 17: Stilistik und Register](17-Stilistik-und-Register.md) · [🎉 Course complete — back to Course Home](../../README.md)
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 2: Das Futur I (Future Tense I)
 
 ## Niveau: B1
@@ -498,3 +504,12 @@ Ordne die Wörter zu korrekten Sätzen im Futur I.
 ---
 
 *Ende der Lektion 2 — Weiter mit Lektion 3: Konjunktiv II (alle Formen)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 1: Das Plusquamperfekt (Past Perfect)](01-Plusquamperfekt.md) · [Lektion 3: Konjunktiv II — Alle Formen (Subjunctive II — All Forms)](03-Konjunktiv-II-alle-Formen.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 13: Konjunktiv II — würde, hätte, wäre und Modalverben
 
 ## Niveau: A2
@@ -587,3 +593,12 @@ Verbinde die Elemente zu vollständigen wenn-Sätzen.
 ---
 
 *Ende der Lektion 13 — Weiter geht es mit Lektion 14: Passiv (Einführung — Präsens)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 12: Relativsätze — Einführung](12-Relativsaetze-Einfuehrung.md) · [Lektion 14: Passiv — Einführung (Präsens)](14-Passiv-Einfuehrung-Praesens.md) ➡️
+<!-- /nav-footer -->

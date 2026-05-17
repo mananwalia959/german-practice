@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 09: Wortstellung und Satzklammer
 ## Word Order and the Sentence Bracket
 
@@ -524,3 +530,12 @@ The order for adverbials in the Mittelfeld:
 ---
 
 *Nächste Lektion: Lektion 10 -- Akkusativ: Artikel und Pronomen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 08: Ja/Nein-Fragen und W-Fragen](08-Ja-Nein-Fragen-und-W-Fragen.md) · [Lektion 10: Der Akkusativ -- Artikel und Pronomen](10-Akkusativ-Artikel-und-Pronomen.md) ➡️
+<!-- /nav-footer -->

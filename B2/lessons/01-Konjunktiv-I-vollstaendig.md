@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 1: Konjunktiv I — Vollständige Darstellung
 
 ## Niveau: B2
@@ -548,3 +554,12 @@ kümmern.
 ---
 
 *Ende der Lektion 1*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+[Lektion 2: Konjunktiv II — Vergangenheit](02-Konjunktiv-II-Vergangenheit.md) ➡️
+<!-- /nav-footer -->

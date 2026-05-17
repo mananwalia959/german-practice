@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 02: Sein und Haben
 ## To Be and To Have
 
@@ -548,3 +554,12 @@ There is no single correct answer. Check your text against these criteria:
 In **Lektion 03: Präsens — Regelmäßige Verben**, you will learn how to conjugate
 regular German verbs in the present tense. You will discover the simple pattern of
 stem + endings that applies to hundreds of verbs.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 01: Das Alphabet und die Aussprache](01-Alphabet-und-Aussprache.md) · [Lektion 03: Präsens — Regelmäßige Verben](03-Praesens-regelmaessige-Verben.md) ➡️
+<!-- /nav-footer -->

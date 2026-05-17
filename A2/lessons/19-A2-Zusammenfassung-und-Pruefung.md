@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 19: A2 Zusammenfassung und Prüfung
 ## A2 Review and Mock Exam
 
@@ -236,3 +242,12 @@ Ergänzen Sie die Lücken.
 ☐ Ich kann Infinitiv mit zu verwenden (versuchen zu, um...zu).
 
 **Auswertung:** 13–15 ✓ = Bereit für B1 | 10–12 ✓ = Wiederholen | < 10 ✓ = A2 vertiefen
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 18: Infinitiv mit "zu" (Infinitive with "zu")](18-Infinitiv-mit-zu.md) · [B1 Overview — Start B1 ➡️](../../B1/00-B1-Overview.md)
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 16: Komplexe Satzstrukturen
 ## Complex Sentence Structures
 
@@ -198,3 +204,12 @@ Wählen Sie den passenden Konnektor.
 - dass/ob-clauses can be **subjects**: Dass er kommt, freut mich.
 
 → Weiter zu **Lektion 17:** Temporalsätze und Kausalsätze
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 15: „Es" als Platzhalter und Pronomen (All Uses of "es" in German)](15-Es-als-Platzhalter.md) · [Lektion 17: Temporalsätze und Kausalsätze](17-Temporalsaetze-und-Kausalsaetze.md) ➡️
+<!-- /nav-footer -->

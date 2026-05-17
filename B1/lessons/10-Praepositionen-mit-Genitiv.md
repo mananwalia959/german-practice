@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 10: Präpositionen mit Genitiv
 ## Prepositions with the Genitive Case
 
@@ -223,3 +229,12 @@ Bilden Sie Sätze mit der angegebenen Präposition + Genitiv.
 - Noun endings: masc/neut add **-s/-es**; fem/plural no ending
 
 → Weiter zu **Lektion 11:** Doppelkonnektoren
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 9: Der Genitiv — Vollständige Behandlung (The Genitive Case — Complete Treatment)](09-Genitiv-vollstaendig.md) · [Lektion 11: Doppelkonnektoren](11-Doppelkonnektoren.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 2: Das Perfekt mit unregelmäßigen (starken und gemischten) Verben
 
 **Niveau:** A2
@@ -541,3 +547,12 @@ _______________________________________________
 ---
 
 **Nächste Lektion:** [Lektion 3: Das Präteritum von sein, haben und Modalverben](03-Praeteritum-sein-haben-Modalverben.md) -- Dort lernst du, wann man das Präteritum statt des Perfekts benutzt, besonders bei sein, haben und den Modalverben.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 1: Das Perfekt mit regelmäßigen (schwachen) Verben](01-Perfekt-regelmaessige-Verben.md) · [Lektion 3: Das Präteritum von sein, haben und Modalverben](03-Praeteritum-sein-haben-Modalverben.md) ➡️
+<!-- /nav-footer -->

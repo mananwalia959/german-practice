@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 7: Funktionsverbgefüge (FVG)
 
 ## Niveau: B2
@@ -518,3 +524,12 @@ Mit freundlichen Grüßen
 ---
 
 *Ende der Lektion 7 — Funktionsverbgefüge*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 06: Subjektive Bedeutung der Modalverben](06-Subjektive-Bedeutung-Modalverben.md) · [Lektion 8: Komplexe Präpositionen](08-Komplexe-Praepositionen.md) ➡️
+<!-- /nav-footer -->

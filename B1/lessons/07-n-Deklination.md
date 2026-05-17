@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 7: Die n-Deklination (N-Declension)
 
 **Niveau:** B1
@@ -526,3 +532,12 @@ Deklinieren Sie die folgenden Nomen in allen vier Fällen (Singular und Plural).
 ---
 
 *Ende der Lektion 7 — n-Deklination*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 06: Relativsätze mit wo, was und wo(r)-Verbindungen](06-Relativsaetze-wo-was-worueber.md) · [Lektion 8: Adjektivdeklination — Fortgeschritten (Advanced Adjective Declension)](08-Adjektivdeklination-Fortgeschritten.md) ➡️
+<!-- /nav-footer -->

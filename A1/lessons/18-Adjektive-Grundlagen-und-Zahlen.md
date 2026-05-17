@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 18: Adjektive (Grundlagen) und Zahlen
 ## Niveau: A1 | Thema: Predicate Adjectives, Numbers, Time, Dates
 
@@ -595,3 +601,12 @@ In der nächsten Lektion lernen Sie die fünf koordinierenden Konjunktionen
 ---
 
 *Viel Erfolg beim Lernen! (Good luck with your studies!)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 17: Pluralbildung (Plural Formation)](17-Pluralbildung.md) · [Lektion 19: Koordinierende Konjunktionen](19-Koordinierende-Konjunktionen.md) ➡️
+<!-- /nav-footer -->

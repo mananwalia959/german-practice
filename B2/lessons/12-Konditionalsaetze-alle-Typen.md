@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 12: Konditionalsätze — alle Typen
 ## Conditional Sentences — All Types
 
@@ -200,3 +206,12 @@ Schreiben Sie ohne wenn.
 | Without wenn | Verb-first: Hätte ich..., Wäre er... |
 
 → Weiter zu **Lektion 13:** Doppelinfinitiv
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 11: Wortbildung](11-Wortbildung.md) · [Lektion 13: Der Doppelinfinitiv (Ersatzinfinitiv)](13-Doppelinfinitiv.md) ➡️
+<!-- /nav-footer -->

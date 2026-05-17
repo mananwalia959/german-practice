@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 14: Nominalisierung (Nominalization)
 
 **Niveau:** B1
@@ -518,3 +524,12 @@ und in formellen Situationen verwendet man oft Nominalisierungen statt Verben:
 ---
 
 *Ende der Lektion 14 — Nominalisierung*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 13: Partizipiale Adjektive (Participial Adjectives)](13-Partizipiale-Adjektive.md) · [Lektion 15: „Es" als Platzhalter und Pronomen (All Uses of "es" in German)](15-Es-als-Platzhalter.md) ➡️
+<!-- /nav-footer -->

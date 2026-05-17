@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 5: Artikel und Nomen im Nominativ (Articles and Nouns in the Nominative Case)
 
 **Niveau:** A1
@@ -642,3 +648,12 @@ Determine the article of the compound nouns. Remember: The last word determines 
 
 **Vorherige Lektion:** Lektion 4 – Präsens: Unregelmäßige Verben
 **Nächste Lektion:** Lektion 6 – Akkusativ (The Accusative Case)
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 4: Präsens – Unregelmäßige Verben (Present Tense – Irregular Verbs)](04-Praesens-unregelmaessige-Verben.md) · [Lektion 06: Personalpronomen und Nominativ](06-Personalpronomen-und-Nominativ.md) ➡️
+<!-- /nav-footer -->

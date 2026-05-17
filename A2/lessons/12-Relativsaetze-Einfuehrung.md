@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 12: Relativsätze — Einführung
 
 ## Niveau: A2
@@ -493,3 +499,12 @@ Der Mann ist nett. Der Mann wohnt nebenan.
 ---
 
 *Ende der Lektion 12 — Weiter geht es mit Lektion 13: Konjunktiv II (würde, hätte, wäre)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 11: Nebensätze mit ob, als, während, bevor, nachdem, obwohl](11-Nebensaetze-ob-als-waehrend.md) · [Lektion 13: Konjunktiv II — würde, hätte, wäre und Modalverben](13-Konjunktiv-II-wuerde-haette-waere.md) ➡️
+<!-- /nav-footer -->

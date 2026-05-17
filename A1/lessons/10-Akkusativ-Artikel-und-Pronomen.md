@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 10: Der Akkusativ -- Artikel und Pronomen
 
 **Niveau:** A1
@@ -479,3 +485,12 @@ anrufen, einladen
 **Naechste Lektion:** Lektion 11 -- Der Dativ (Dative Case)
 
 **Gut gemacht! Weiter so!** (Well done! Keep it up!)
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 09: Wortstellung und Satzklammer](09-Wortstellung-und-Satzklammer.md) · [Lektion 11: Possessivpronomen (Possessive Pronouns)](11-Possessivpronomen.md) ➡️
+<!-- /nav-footer -->

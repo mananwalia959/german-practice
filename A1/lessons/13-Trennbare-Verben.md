@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 13: Trennbare Verben (Separable Verbs)
 
 **Niveau:** A1
@@ -488,3 +494,12 @@ In **Lektion 14: Imperativ** lernen Sie, wie man Befehle und Bitten formuliert �
 ---
 
 *Viel Erfolg beim Lernen! (Good luck with your studies!)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 12: Modalverben (Modal Verbs)](12-Modalverben.md) · [Lektion 14: Imperativ (Imperative Mood)](14-Imperativ.md) ➡️
+<!-- /nav-footer -->

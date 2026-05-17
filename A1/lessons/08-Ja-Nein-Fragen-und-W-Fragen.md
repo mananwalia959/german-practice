@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 08: Ja/Nein-Fragen und W-Fragen
 ## Yes/No Questions and W-Questions
 
@@ -513,3 +519,12 @@ Question: **Wohnst** du in Berlin? (just move the verb to the front)
 ---
 
 *Nächste Lektion: Lektion 09 -- Wortstellung und Satzklammer*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 07: Negation -- nicht und kein](07-Negation-nicht-und-kein.md) · [Lektion 09: Wortstellung und Satzklammer](09-Wortstellung-und-Satzklammer.md) ➡️
+<!-- /nav-footer -->

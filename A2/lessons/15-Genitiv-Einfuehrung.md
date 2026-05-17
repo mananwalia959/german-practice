@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 15: Genitiv — Einführung
 ## Genitive Case — Introduction
 
@@ -194,3 +200,12 @@ Beispiel: Mein Vater hat ein Auto. → Das Auto **meines Vaters**.
 - Adjective endings in genitive: always **-en** after articles
 
 → Weiter zu **Lektion 16:** Verben mit Präpositionen
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 14: Passiv — Einführung (Präsens)](14-Passiv-Einfuehrung-Praesens.md) · [Lektion 16: Verben mit Praepositionen (Verbs with Fixed Prepositions)](16-Verben-mit-Praepositionen.md) ➡️
+<!-- /nav-footer -->

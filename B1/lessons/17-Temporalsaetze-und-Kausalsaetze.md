@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 17: Temporalsätze und Kausalsätze
 ## Temporal and Causal Clauses — Complete Reference
 
@@ -262,3 +268,12 @@ Wählen Sie: bevor / während / bis / seitdem / sobald / solange
 | obwohl | although — verb-final (concessive) |
 
 → Weiter zu **Lektion 18:** B1 Zusammenfassung und Prüfung
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 16: Komplexe Satzstrukturen](16-Komplexe-Satzstrukturen.md) · [Lektion 18: B1 Zusammenfassung und Prüfung](18-B1-Zusammenfassung-und-Pruefung.md) ➡️
+<!-- /nav-footer -->

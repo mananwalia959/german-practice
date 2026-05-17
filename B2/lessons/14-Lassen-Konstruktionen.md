@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 14: Lassen-Konstruktionen (Constructions with lassen)
 
 **Niveau:** B2
@@ -482,3 +488,12 @@ The Konjunktiv II of lassen is **ließe**:
 ---
 
 *Nächste Lektion: Lektion 15 — Konsekutiv-, Konzessiv- und Finalsätze*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 13: Der Doppelinfinitiv (Ersatzinfinitiv)](13-Doppelinfinitiv.md) · [Lektion 15: Konsekutiv-, Konzessiv-, Final- und Modalsätze](15-Konsekutiv-Konzessiv-Finalsaetze.md) ➡️
+<!-- /nav-footer -->

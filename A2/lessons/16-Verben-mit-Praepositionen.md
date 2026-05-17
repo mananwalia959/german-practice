@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 16: Verben mit Praepositionen (Verbs with Fixed Prepositions)
 
 **Niveau:** A2
@@ -423,3 +429,12 @@ Beispiel: Ich warte auf _Maria_. → **Auf wen** wartest du?
 ---
 
 *Ende der Lektion 16*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 15: Genitiv — Einführung](15-Genitiv-Einfuehrung.md) · [Lektion 17: Indirekte Fragen (Indirect Questions)](17-Indirekte-Fragen.md) ➡️
+<!-- /nav-footer -->

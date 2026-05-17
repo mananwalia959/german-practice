@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 16: Nomen-Verb-Verbindungen — Vertiefung
 ## Extended Fixed Noun-Verb Combinations (Funktionsverbgefüge) — Deep Dive
 **Niveau:** B2
@@ -398,3 +404,12 @@ Der Stadtrat traf sich gestern zu einer außerordentlichen Sitzung. Bürgermeist
 
 **Fixed prepositional collocations (quick reference):**
 *auf Anhieb, im Grunde, in der Regel, unter Umständen, auf jeden Fall, im Allgemeinen, im Wesentlichen, im Nachhinein, in diesem Zusammenhang, im Rahmen, im Hinblick auf, in Anbetracht*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 15: Konsekutiv-, Konzessiv-, Final- und Modalsätze](15-Konsekutiv-Konzessiv-Finalsaetze.md) · [Lektion 17: Stilistik und Register](17-Stilistik-und-Register.md) ➡️
+<!-- /nav-footer -->

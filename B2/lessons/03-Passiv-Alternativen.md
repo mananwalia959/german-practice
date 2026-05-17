@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 3: Passiv-Alternativen
 
 ## Niveau: B2
@@ -646,3 +652,12 @@ Möchte ich allgemein/unpersönlich formulieren?
 ---
 
 *Ende der Lektion 3*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 2: Konjunktiv II — Vergangenheit](02-Konjunktiv-II-Vergangenheit.md) · [Lektion 4: Partizipialkonstruktionen (Erweiterte Partizipialattribute)](04-Partizipialkonstruktionen.md) ➡️
+<!-- /nav-footer -->

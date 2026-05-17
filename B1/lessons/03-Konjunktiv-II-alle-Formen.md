@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 3: Konjunktiv II — Alle Formen (Subjunctive II — All Forms)
 
 ## Niveau: B1
@@ -576,3 +582,12 @@ Reagiere auf die Situationen mit dem Konjunktiv II.
 ---
 
 *Ende der Lektion 3 — Weiter mit Lektion 4: Passiv (alle Zeitformen)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 2: Das Futur I (Future Tense I)](02-Futur-I.md) · [Lektion 4: Das Passiv in allen Zeitformen](04-Passiv-alle-Zeitformen.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 15: Konsekutiv-, Konzessiv-, Final- und Modalsätze
 ## Advanced Clause Types — Consecutive, Concessive, Final, and Modal Clauses
 **Niveau:** B2
@@ -530,3 +536,12 @@ The following 25 sentences illustrate all clause types covered in this lesson. E
 **Universal word order rule for all Nebensätze:**
 > Conjunction → Subject → Middle field → **Verb-final**
 > When the subordinate clause comes first → Main clause begins with **conjugated verb** (V2 inversion)
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 14: Lassen-Konstruktionen (Constructions with lassen)](14-Lassen-Konstruktionen.md) · [Lektion 16: Nomen-Verb-Verbindungen — Vertiefung](16-Nomen-Verb-Verbindungen-Vertiefung.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 1: Das Plusquamperfekt (Past Perfect)
 
 ## Niveau: B1
@@ -434,3 +440,12 @@ In jedem Satz ist ein Fehler. Finde und korrigiere ihn.
 ---
 
 *Ende der Lektion 1 — Weiter mit Lektion 2: Futur I*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+[Lektion 2: Das Futur I (Future Tense I)](02-Futur-I.md) ➡️
+<!-- /nav-footer -->

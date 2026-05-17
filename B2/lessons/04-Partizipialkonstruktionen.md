@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 4: Partizipialkonstruktionen (Erweiterte Partizipialattribute)
 
 **Niveau:** B2
@@ -482,3 +488,12 @@ Bedeutung nicht sofort klar ist.
 ---
 
 *Ende der Lektion 4 -- Partizipialkonstruktionen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 3: Passiv-Alternativen](03-Passiv-Alternativen.md) · [Lektion 5: Erweiterte Attribute (Komplexe Nominalphrasen)](05-Erweiterte-Attribute.md) ➡️
+<!-- /nav-footer -->

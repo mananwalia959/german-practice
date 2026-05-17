@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 12: Modalverben (Modal Verbs)
 
 **Niveau:** A1
@@ -496,3 +502,12 @@ In **Lektion 13: Trennbare Verben** lernen Sie, wie Verben mit Präfixen funktio
 ---
 
 *Viel Erfolg beim Lernen! (Good luck with your studies!)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 11: Possessivpronomen (Possessive Pronouns)](11-Possessivpronomen.md) · [Lektion 13: Trennbare Verben (Separable Verbs)](13-Trennbare-Verben.md) ➡️
+<!-- /nav-footer -->

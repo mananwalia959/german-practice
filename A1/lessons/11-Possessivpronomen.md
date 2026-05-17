@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 11: Possessivpronomen (Possessive Pronouns)
 
 **Niveau:** A1
@@ -415,3 +421,12 @@ In **Lektion 12: Modalverben** lernen Sie die sechs Modalverben (können, müsse
 ---
 
 *Viel Erfolg beim Lernen! (Good luck with your studies!)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 10: Der Akkusativ -- Artikel und Pronomen](10-Akkusativ-Artikel-und-Pronomen.md) · [Lektion 12: Modalverben (Modal Verbs)](12-Modalverben.md) ➡️
+<!-- /nav-footer -->

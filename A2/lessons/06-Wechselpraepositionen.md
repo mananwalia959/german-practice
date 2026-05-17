@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 6: Wechselpräpositionen (Two-Way Prepositions)
 
 ## Niveau: A2
@@ -497,3 +503,12 @@ Wählen Sie: im, ins, am, ans, aufs, auf dem, an der, in die, in den
 ---
 
 *Viel Erfolg beim Lernen! Übung macht den Meister!*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 5: Reflexive Verben](05-Reflexive-Verben.md) · [Lektion 7: Adjektivdeklination im Nominativ und Akkusativ](07-Adjektivdeklination-Nominativ-Akkusativ.md) ➡️
+<!-- /nav-footer -->

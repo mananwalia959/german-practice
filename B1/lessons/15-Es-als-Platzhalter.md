@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 15: „Es" als Platzhalter und Pronomen (All Uses of "es" in German)
 
 **Niveau:** B1
@@ -503,3 +509,12 @@ Wenn ja → „es" ist optional. Wenn nein → „es" ist obligatorisch.
 ---
 
 *Ende der Lektion 15 — „Es" als Platzhalter und Pronomen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 14: Nominalisierung (Nominalization)](14-Nominalisierung.md) · [Lektion 16: Komplexe Satzstrukturen](16-Komplexe-Satzstrukturen.md) ➡️
+<!-- /nav-footer -->

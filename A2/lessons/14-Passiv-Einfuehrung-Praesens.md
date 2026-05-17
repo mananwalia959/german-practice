@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 14: Passiv — Einführung (Präsens)
 ## Passive Voice — Introduction (Present Tense)
 
@@ -197,3 +203,12 @@ Schreiben Sie die Sätze mit Modalverb im Passiv.
 - Use passive to focus on the action, not the doer
 
 → Weiter zu **Lektion 15:** Genitiv — Einführung
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 13: Konjunktiv II — würde, hätte, wäre und Modalverben](13-Konjunktiv-II-wuerde-haette-waere.md) · [Lektion 15: Genitiv — Einführung](15-Genitiv-Einfuehrung.md) ➡️
+<!-- /nav-footer -->

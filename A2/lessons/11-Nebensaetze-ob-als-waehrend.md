@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 11: Nebensätze mit ob, als, während, bevor, nachdem, obwohl
 
 ## Niveau: A2
@@ -479,3 +485,12 @@ Fülle die Lücke mit der passenden Konjunktion.
 ---
 
 *Ende der Lektion 11 — Weiter geht es mit Lektion 12: Relativsätze (Einführung)*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 10: Nebensätze — weil, dass, wenn](10-Nebensaetze-weil-dass-wenn.md) · [Lektion 12: Relativsätze — Einführung](12-Relativsaetze-Einfuehrung.md) ➡️
+<!-- /nav-footer -->

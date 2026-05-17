@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 11: Wortbildung
 ## Word Formation
 
@@ -216,3 +222,12 @@ Bilden Sie Substantive mit -ung.
 - Verb prefixes: **be-** (transitive), **ver-** (change/wrong/away), **er-** (achievement), **ent-** (removal), **zer-** (destruction)
 
 → Weiter zu **Lektion 12:** Konditionalsätze — alle Typen
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](../vocabulary/Verben-B2.md) · [📦 Nomen B2](../vocabulary/Nomen-B2.md)
+
+⬅️ [Lektion 10: Nominalisierung — Fortgeschritten](10-Nominalisierung-Fortgeschritten.md) · [Lektion 12: Konditionalsätze — alle Typen](12-Konditionalsaetze-alle-Typen.md) ➡️
+<!-- /nav-footer -->

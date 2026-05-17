@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 9: Der Genitiv — Vollständige Behandlung (The Genitive Case — Complete Treatment)
 
 **Niveau:** B1
@@ -560,3 +566,12 @@ Vervollständigen Sie die Sätze mit der richtigen Genitivform.
 ---
 
 *Ende der Lektion 9 — Der Genitiv vollständig*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 8: Adjektivdeklination — Fortgeschritten (Advanced Adjective Declension)](08-Adjektivdeklination-Fortgeschritten.md) · [Lektion 10: Präpositionen mit Genitiv](10-Praepositionen-mit-Genitiv.md) ➡️
+<!-- /nav-footer -->

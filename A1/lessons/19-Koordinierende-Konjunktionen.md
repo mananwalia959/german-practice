@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 19: Koordinierende Konjunktionen
 
 **Niveau:** A1
@@ -572,3 +578,12 @@ Verbinden Sie die zwei Saetze mit der angegebenen Konjunktion.
 
 **Fantastisch! Sie sind fast am Ende des A1-Kurses!**
 (Fantastic! You are almost at the end of the A1 course!)
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 18: Adjektive (Grundlagen) und Zahlen](18-Adjektive-Grundlagen-und-Zahlen.md) · [Lektion 20: A1 Zusammenfassung und Prüfung](20-A1-Zusammenfassung-und-Pruefung.md) ➡️
+<!-- /nav-footer -->

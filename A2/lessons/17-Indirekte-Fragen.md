@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 17: Indirekte Fragen (Indirect Questions)
 
 **Niveau:** A2
@@ -434,3 +440,12 @@ Jeder Satz hat einen Fehler. Finden und korrigieren Sie ihn.
 ---
 
 *Ende der Lektion 17*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 16: Verben mit Praepositionen (Verbs with Fixed Prepositions)](16-Verben-mit-Praepositionen.md) · [Lektion 18: Infinitiv mit "zu" (Infinitive with "zu")](18-Infinitiv-mit-zu.md) ➡️
+<!-- /nav-footer -->

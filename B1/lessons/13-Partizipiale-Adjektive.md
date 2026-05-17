@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 13: Partizipiale Adjektive (Participial Adjectives)
 
 **Niveau:** B1
@@ -500,3 +506,12 @@ Wandle die Partizipialphrase in einen Relativsatz um.
 ---
 
 *Ende der Lektion 13 — Partizipiale Adjektive*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](../vocabulary/Verben-B1.md) · [📦 Nomen B1](../vocabulary/Nomen-B1.md)
+
+⬅️ [Lektion 12: Indirekte Rede — Konjunktiv I](12-Indirekte-Rede-Konjunktiv-I.md) · [Lektion 14: Nominalisierung (Nominalization)](14-Nominalisierung.md) ➡️
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 20: A1 Zusammenfassung und Prüfung
 ## A1 Review and Mock Exam
 
@@ -246,3 +252,12 @@ Schreiben Sie den Satz in der richtigen Reihenfolge.
 - A1 umfasst: Verbkonjugation, Kasus (Nom/Akk/Dat), Artikel, Pronomen, Modalverben, Satzstellung
 - Die wichtigste Regel: **Verb steht immer auf Position 2**
 - Weiter zu: **A2** → Perfekt, Deklination, Nebensätze, Reflexivverben
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](../vocabulary/Verben-A1.md) · [📦 Nomen A1](../vocabulary/Nomen-A1.md)
+
+⬅️ [Lektion 19: Koordinierende Konjunktionen](19-Koordinierende-Konjunktionen.md) · [A2 Overview — Start A2 ➡️](../../A2/00-A2-Overview.md)
+<!-- /nav-footer -->

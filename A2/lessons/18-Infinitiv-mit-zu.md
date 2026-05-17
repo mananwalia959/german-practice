@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # Lektion 18: Infinitiv mit "zu" (Infinitive with "zu")
 
 **Niveau:** A2
@@ -485,3 +491,12 @@ Beispiel: verstehen → zu verstehen
 ---
 
 *Ende der Lektion 18*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](../vocabulary/Verben-A2.md) · [📦 Nomen A2](../vocabulary/Nomen-A2.md)
+
+⬅️ [Lektion 17: Indirekte Fragen (Indirect Questions)](17-Indirekte-Fragen.md) · [Lektion 19: A2 Zusammenfassung und Prüfung](19-A2-Zusammenfassung-und-Pruefung.md) ➡️
+<!-- /nav-footer -->
