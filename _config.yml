@@ -1,2 +1,16 @@
-theme: minima
+title: Deutsche Grammatik A1–B2
 markdown: kramdown
+
+# No Jekyll theme — minima added the big header/nav and footer chrome.
+# A single clean layout is applied to every page instead.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# README.md becomes the site homepage (via jekyll-readme-index).
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .github

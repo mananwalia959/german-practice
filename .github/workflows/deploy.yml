@@ -1,30 +1,55 @@
-name: Deploy Markdown site
+name: Deploy Jekyll site
 
 on:
   push:
     branches:
-      - main  # change if needed
+      - master
+  workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
+# Allow one concurrent deployment, cancel in-progress runs.
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .   # deploy entire repo (your .md files)
+          path: ./_site
 
-      - name: Deploy
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
