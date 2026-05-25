@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../README.md) · **📘 A1 (current)** · [📘 A2](../A2/00-A2-Overview.md) · [📘 B1](../B1/00-B1-Overview.md) · [📘 B2](../B2/00-B2-Overview.md) · [🔤 Verben A1](vocabulary/Verben-A1.md) · [📦 Nomen A1](vocabulary/Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # A1 - Deutsche Grammatik: Grundstufe
 
 ## CEFR A1 Level Description
@@ -177,3 +183,12 @@ The Goethe-Zertifikat A1 consists of four parts:
 ---
 
 > **Viel Erfolg!** (Good luck!) — Consistent daily practice, even if brief, is far more effective than long irregular study sessions. Trust the process and keep moving forward.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../README.md) · **📘 A1 (current)** · [📘 A2](../A2/00-A2-Overview.md) · [📘 B1](../B1/00-B1-Overview.md) · [📘 B2](../B2/00-B2-Overview.md) · [🔤 Verben A1](vocabulary/Verben-A1.md) · [📦 Nomen A1](vocabulary/Nomen-A1.md)
+
+[Start A1: Lektion 01 ➡️](lessons/01-Alphabet-und-Aussprache.md) · [A2 Overview ➡️](../A2/00-A2-Overview.md)
+<!-- /nav-footer -->

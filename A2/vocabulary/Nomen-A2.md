@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · **📘 A2 (current)** · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](Verben-A2.md)
+
+---
+<!-- /nav-header -->
+
 # A2 Nomen — 130 Nomen nach Themen
 
 ---
@@ -189,3 +195,12 @@
 ---
 
 *Ende der A2-Nomenliste — 130 Nomen in 8 Themen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · **📘 A2 (current)** · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A2 Overview](../00-A2-Overview.md) · [🔤 Verben A2](Verben-A2.md)
+
+⬅️ [Nomen A1](../../A1/vocabulary/Nomen-A1.md) · [📘 A2 Overview](../00-A2-Overview.md) · [Nomen B1 ➡️](../../B1/vocabulary/Nomen-B1.md)
+<!-- /nav-footer -->

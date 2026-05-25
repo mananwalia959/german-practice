@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../README.md) · [📘 A1](../A1/00-A1-Overview.md) · **📘 A2 (current)** · [📘 B1](../B1/00-B1-Overview.md) · [📘 B2](../B2/00-B2-Overview.md) · [🔤 Verben A2](vocabulary/Verben-A2.md) · [📦 Nomen A2](vocabulary/Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # A2 — Elementare Sprachverwendung
 ## A2 — Elementary Language Use
 
@@ -133,3 +139,12 @@ The **Goethe-Zertifikat A2** (also known as *Goethe-Zertifikat A2: Fit in Deutsc
 ## Weiter / Next Steps
 
 After completing A2, continue to [B1](../B1/00-B1-Overview.md) for intermediate German: all tenses, full passive voice, Konjunktiv I and II, and complex sentence structures.
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../README.md) · [📘 A1](../A1/00-A1-Overview.md) · **📘 A2 (current)** · [📘 B1](../B1/00-B1-Overview.md) · [📘 B2](../B2/00-B2-Overview.md) · [🔤 Verben A2](vocabulary/Verben-A2.md) · [📦 Nomen A2](vocabulary/Nomen-A2.md)
+
+⬅️ [A1 Overview](../A1/00-A1-Overview.md) · [Start A2: Lektion 01 ➡️](lessons/01-Perfekt-regelmaessige-Verben.md) · [B1 Overview ➡️](../B1/00-B1-Overview.md)
+<!-- /nav-footer -->

@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · **📘 A1 (current)** · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A1 Overview](../00-A1-Overview.md) · [📦 Nomen A1](Nomen-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Verben – Niveau A1
 ## Verbs – Level A1
 
@@ -1272,3 +1278,12 @@ All remaining verbs use haben as their auxiliary verb.
 
 *Erstellt für das Niveau A1 des Gemeinsamen Europäischen Referenzrahmens (GER).*
 *Created for Level A1 of the Common European Framework of Reference (CEFR).*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · **📘 A1 (current)** · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A1 Overview](../00-A1-Overview.md) · [📦 Nomen A1](Nomen-A1.md)
+
+[📘 A1 Overview](../00-A1-Overview.md) · [Verben A2 ➡️](../../A2/vocabulary/Verben-A2.md)
+<!-- /nav-footer -->

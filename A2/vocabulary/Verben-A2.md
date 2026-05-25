@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · **📘 A2 (current)** · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A2 Overview](../00-A2-Overview.md) · [📦 Nomen A2](Nomen-A2.md)
+
+---
+<!-- /nav-header -->
+
 # A2 Verben — 100 Verben nach Themen
 
 ---
@@ -1235,3 +1241,12 @@
 ---
 
 *Ende der A2-Verbenliste — 100 Verben in 8 Themen*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · **📘 A2 (current)** · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A2 Overview](../00-A2-Overview.md) · [📦 Nomen A2](Nomen-A2.md)
+
+⬅️ [Verben A1](../../A1/vocabulary/Verben-A1.md) · [📘 A2 Overview](../00-A2-Overview.md) · [Verben B1 ➡️](../../B1/vocabulary/Verben-B1.md)
+<!-- /nav-footer -->

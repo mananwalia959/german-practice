@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · [📘 A2](../../A2/00-A2-Overview.md) · **📘 B1 (current)** · [📘 B2](../../B2/00-B2-Overview.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](Verben-B1.md)
+
+---
+<!-- /nav-header -->
+
 # Nomen B1 -- 120 Nomen nach Themen
 
 > 120 Nomen, 8 Themen, mit Artikel, Plural, Beispielsaetzen und Anmerkungen zum Genus.
@@ -260,3 +266,12 @@
 ---
 
 > **Ende -- 120 Nomen B1**
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · [📘 A2](../../A2/00-A2-Overview.md) · **📘 B1 (current)** · [📘 B2](../../B2/00-B2-Overview.md) · [📘 B1 Overview](../00-B1-Overview.md) · [🔤 Verben B1](Verben-B1.md)
+
+⬅️ [Nomen A2](../../A2/vocabulary/Nomen-A2.md) · [📘 B1 Overview](../00-B1-Overview.md) · [Nomen B2 ➡️](../../B2/vocabulary/Nomen-B2.md)
+<!-- /nav-footer -->

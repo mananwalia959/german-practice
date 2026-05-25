@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · **📘 A1 (current)** · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](Verben-A1.md)
+
+---
+<!-- /nav-header -->
+
 # Nomen – Niveau A1
 ## Nouns – Level A1
 
@@ -801,3 +807,12 @@ For quick reference, here are all 150 nouns listed alphabetically with their art
 *Erstellt für Deutschlerner auf dem A1-Niveau. Alle Beispielsätze verwenden Grammatik und Vokabular, die für A1 geeignet sind.*
 
 *Created for German learners at the A1 level. All example sentences use grammar and vocabulary appropriate for A1.*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · **📘 A1 (current)** · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · [📘 B2](../../B2/00-B2-Overview.md) · [📘 A1 Overview](../00-A1-Overview.md) · [🔤 Verben A1](Verben-A1.md)
+
+[📘 A1 Overview](../00-A1-Overview.md) · [Nomen A2 ➡️](../../A2/vocabulary/Nomen-A2.md)
+<!-- /nav-footer -->

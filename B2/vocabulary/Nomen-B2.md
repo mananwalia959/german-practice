@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · **📘 B2 (current)** · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](Verben-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Nomen – Niveau B2
 ## Nouns – Level B2
 
@@ -465,3 +471,12 @@ It differs from "die Erklärung" (declaration/explanation) — a Stellungnahme i
 ---
 
 *Ende der Nomen-B2-Liste | End of B2 Nouns List*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · **📘 B2 (current)** · [📘 B2 Overview](../00-B2-Overview.md) · [🔤 Verben B2](Verben-B2.md)
+
+⬅️ [Nomen B1](../../B1/vocabulary/Nomen-B1.md) · [📘 B2 Overview](../00-B2-Overview.md)
+<!-- /nav-footer -->

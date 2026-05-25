@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../README.md) · [📘 A1](../A1/00-A1-Overview.md) · [📘 A2](../A2/00-A2-Overview.md) · **📘 B1 (current)** · [📘 B2](../B2/00-B2-Overview.md) · [🔤 Verben B1](vocabulary/Verben-B1.md) · [📦 Nomen B1](vocabulary/Nomen-B1.md)
+
+---
+<!-- /nav-header -->
+
 # B1 — Selbstständige Sprachverwendung
 ## B1 — Independent Language Use
 
@@ -220,3 +226,12 @@ The following B1 grammar topics appear most frequently on the Goethe B1 exam:
 
 After completing all 18 lessons and passing the practice exam in Lesson 18 with confidence, proceed to:
 **[B2 — Selbstständige Sprachverwendung (Fortgeschritten)](../B2/00-B2-Overview.md)**
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../README.md) · [📘 A1](../A1/00-A1-Overview.md) · [📘 A2](../A2/00-A2-Overview.md) · **📘 B1 (current)** · [📘 B2](../B2/00-B2-Overview.md) · [🔤 Verben B1](vocabulary/Verben-B1.md) · [📦 Nomen B1](vocabulary/Nomen-B1.md)
+
+⬅️ [A2 Overview](../A2/00-A2-Overview.md) · [Start B1: Lektion 01 ➡️](lessons/01-Plusquamperfekt.md) · [B2 Overview ➡️](../B2/00-B2-Overview.md)
+<!-- /nav-footer -->

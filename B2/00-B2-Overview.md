@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../README.md) · [📘 A1](../A1/00-A1-Overview.md) · [📘 A2](../A2/00-A2-Overview.md) · [📘 B1](../B1/00-B1-Overview.md) · **📘 B2 (current)** · [🔤 Verben B2](vocabulary/Verben-B2.md) · [📦 Nomen B2](vocabulary/Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # B2 -- Obere Mittelstufe (Upper Intermediate)
 
 ## CEFR B2 Level Description
@@ -369,3 +375,12 @@ A B2 speaker moves beyond survival communication into genuine participation in G
 ---
 
 *Viel Erfolg auf dem Weg zum B2-Niveau!*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../README.md) · [📘 A1](../A1/00-A1-Overview.md) · [📘 A2](../A2/00-A2-Overview.md) · [📘 B1](../B1/00-B1-Overview.md) · **📘 B2 (current)** · [🔤 Verben B2](vocabulary/Verben-B2.md) · [📦 Nomen B2](vocabulary/Nomen-B2.md)
+
+⬅️ [B1 Overview](../B1/00-B1-Overview.md) · [Start B2: Lektion 01 ➡️](lessons/01-Konjunktiv-I-vollstaendig.md)
+<!-- /nav-footer -->

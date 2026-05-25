@@ -1,3 +1,9 @@
+<!-- nav-header -->
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · **📘 B2 (current)** · [📘 B2 Overview](../00-B2-Overview.md) · [📦 Nomen B2](Nomen-B2.md)
+
+---
+<!-- /nav-header -->
+
 # Verben – Niveau B2
 ## Verbs – Level B2
 
@@ -1200,3 +1206,12 @@
 ---
 
 *Ende der Verben-B2-Liste | End of B2 Verbs List*
+
+<!-- nav-footer -->
+
+---
+
+[🏠 Course Home](../../README.md) · [📘 A1](../../A1/00-A1-Overview.md) · [📘 A2](../../A2/00-A2-Overview.md) · [📘 B1](../../B1/00-B1-Overview.md) · **📘 B2 (current)** · [📘 B2 Overview](../00-B2-Overview.md) · [📦 Nomen B2](Nomen-B2.md)
+
+⬅️ [Verben B1](../../B1/vocabulary/Verben-B1.md) · [📘 B2 Overview](../00-B2-Overview.md)
+<!-- /nav-footer -->
